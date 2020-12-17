@@ -2,10 +2,18 @@
 <br>
 Me chamo Lucas (:brazil:), estudante de <code>Sistemas para Internet</code> na Faculdade Alfa, Trabalhando no  <code>Grupo Gazin</code>.
 <br>
-Atualmente trabalhando com PHP, Javascript, Python, PostgreSQL, MySql.
+
+#### Atualmente trabalhando com:
+
+- [x] PHP
+- [x] Javascript
+- [x] Python
+- [x] PostgreSQL
+- [x] MySql.
 <br>
-Interessado e estudando algumas dessas tecnologias:
-<br><br>
+
+#### Interessado e estudando algumas dessas tecnologias:
+
 
 - [x] Docker
 - [x] ReactJS
