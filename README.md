@@ -10,17 +10,13 @@ Me chamo Lucas (:brazil:), estudante de <code>Sistemas para Internet</code> na F
 - [x] Python
 - [x] PostgreSQL
 - [x] MySql.
-<br>
 
 #### Interessado e estudando algumas dessas tecnologias:
-
 
 - [x] Docker
 - [x] ReactJS
 - [x] VueJS
 - [x] TypeScript
-
-<br>
 
 ## Contatos
 E-mail: <code>lucasgioricesconetto@gmail.com</code>
