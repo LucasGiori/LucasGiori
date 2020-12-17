@@ -6,10 +6,10 @@ Atualmente trabalhando com PHP, Javascript, Python, PostgreSQL, MySql.
 <br>
 Interessado e estudando algumas dessas tecnologias:
 <br>
-- [x] **Docker**
-- [x] **ReactJS**
-- [x] **VueJS**
-- [x] **TypeScript**
+- [x] Docker
+- [x] ReactJS
+- [x] VueJS
+- [x] TypeScript
 <br><br>
 
 ## Contatos
