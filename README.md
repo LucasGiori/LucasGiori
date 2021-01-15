@@ -25,8 +25,9 @@ E-mail: <code>lucasgioricesconetto@gmail.com</code>
 
 
 ## Github Stats
+![Krushnat's github stats]
 
-![LucasGiori github stats](https://github-readme-stats.vercel.app/api?username=LucasGiori&theme=dracula)
+![LucasGiori's github stats](https://github-readme-stats.vercel.app/api?username=LucasGiori&theme=dracula)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGiori&hide=Jupyter%20Notebook,HTML&langs_count=8&layout=compact&theme=dracula)
