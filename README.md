@@ -1,22 +1,7 @@
 ## <code>Hello World</code> :v:
 <br>
-Me chamo Lucas (:brazil:), estudante de <code>Sistemas para Internet</code> na Faculdade Alfa, Trabalhando no  <code>Grupo Gazin</code>.
+Me chamo Lucas (:brazil:), pós graduando em <code>Desenvolvimento de aplicações para internet e dispositivos móveis para Internet</code> na UniAlfa, Trabalhando na <code>Boa Compra by PagSeguro</code>.
 <br>
-
-#### Atualmente trabalhando com:
-
-- [x] PHP
-- [x] Javascript
-- [x] Python
-- [x] PostgreSQL
-- [x] MySql.
-
-#### Interessado e estudando algumas dessas tecnologias:
-
-- [x] Docker
-- [x] ReactJS
-- [x] VueJS
-- [x] TypeScript
 
 ## Contatos
 E-mail: <code>lucasgioricesconetto@gmail.com</code>
