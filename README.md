@@ -1,6 +1,6 @@
 ## <code>Hello World</code> :v:
 <br>
-Me chamo Lucas (:brazil:), pós graduando em <code>Desenvolvimento de aplicações para internet e dispositivos móveis para Internet</code> na UniAlfa, Trabalhando na <code>Boa Compra by PagSeguro</code>.
+Me chamo Lucas (:brazil:), pós graduando em <code>Desenvolvimento de aplicações para internet e dispositivos móveis</code> na UniAlfa, Trabalhando na <code>Boa Compra by PagSeguro</code>.
 <br>
 
 ## Contatos
